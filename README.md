@@ -1,3 +1,36 @@
-<img src="https://i1.sndcdn.com/artworks-Uz9a50v5tYRlOa7q-xfy74g-t500x500.jpg" height="500" border-radius="70%">
+<h1>Hello World!</h1>
+ <style>
+   h1 {
+     text-align: center;
+     font-size: large;
+   }
+   @keyframes color {
+    0% {
+        color: #fdc5f5
+    }
 
+    30% {
+        color: #f7aef8
+    }
+
+    60% {
+        color: #b388eb
+    }
+
+    90% {
+        color: #8093f1
+    }
+
+    100% {
+        color: #72ddf7
+    }
+}
+
+h1 {
+    -webkit-animation: color 20s infinite;
+    animation: color 10s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+ </style>
 
