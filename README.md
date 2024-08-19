@@ -4,5 +4,3 @@
 <a href="https://wakatime.com/@K5" target="_blank">
 	<img width="50%" align="right" alt="Weekly" src="https://github-readme-stats.vercel.app/api/wakatime?username=K5&border_radius=5px&theme=dark&bg_color=0d1117&border_color=0d1117&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
-
-I code (for fun) (sometimes)
